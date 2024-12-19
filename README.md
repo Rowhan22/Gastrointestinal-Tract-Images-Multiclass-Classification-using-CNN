@@ -17,12 +17,15 @@ The dataset used for this project contains the following classes:
 8. Ulcerative colitis
 Each image has been preprocessed for training, validation, and testing.
 
+![image](https://github.com/user-attachments/assets/c56e92a2-bca0-4bb3-93b7-d5ea775cccee)
+
+
 
 ## Results
 
 The model achieved the following metrics:
-Final Training Accuracy: 73%
-Final Validation Accuracy: 71%
-Final Training Loss: 0.75
-Final Validation Loss: 0.80
+1. Final Training Accuracy: 73%
+2. Final Validation Accuracy: 71%
+3. Final Training Loss: 0.75
+4. Final Validation Loss: 0.80
 Confusion matrices and classification reports are used to evaluate performance on the test set.
