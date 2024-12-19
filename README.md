@@ -30,3 +30,7 @@ The model achieved the following metrics:
 3. Final Training Loss: 0.75
 4. Final Validation Loss: 0.80
 Confusion matrices and classification reports are used to evaluate performance on the test set.
+
+
+## TO DO
+First of all download the dataset at (https://datasets.simula.no/kvasir/). For this code, the dataset "Kvasir Dataset v2" was used. Then create three separate folders (one for testing, another one for training and validation) with all the eigth classes inside all of them. Divide the total dataset in 80% for training, 10% for testing and 10% for validation
