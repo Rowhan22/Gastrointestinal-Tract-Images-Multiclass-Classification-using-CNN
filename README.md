@@ -15,6 +15,7 @@ The dataset used for this project contains the following classes:
 6. Normal z-line
 7. Polyps
 8. Ulcerative colitis
+
 Each image has been preprocessed for training, validation, and testing.
 
 ![image](https://github.com/user-attachments/assets/c56e92a2-bca0-4bb3-93b7-d5ea775cccee)
